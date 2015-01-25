@@ -4,6 +4,7 @@ package model;
  * Created by sebastian on 23.01.15.
  */
 public enum Language {
+    None(""),
     ABAP("abap"),
     ActionScript("actionscript"),
     ADA("ada"),
